@@ -64,3 +64,9 @@ time="2023-02-15T14:35:42+08:00" level=info msg="swapTxHash Successfully" swapTx
 ```
 
 ![20230215145054](https://raw.githubusercontent.com/jerrychan807/imggg/master/image/20230215145054.png)
+
+# Refs:
+- https://docs.1inch.io/docs/aggregation-protocol/api/swap-params
+- https://github.com/jon4hz/go-1inch
+- https://docs.1inch.io/docs/aggregation-protocol/api/swagger
+- https://github.com/Mosiki/BuyTokensPancakeGolang
